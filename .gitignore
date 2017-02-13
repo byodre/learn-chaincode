@@ -1,6 +1,6 @@
 .project
 node_modules
-*.exe
+# *.exe
 
 # compiled chaincode
 start/start
